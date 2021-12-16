@@ -15,11 +15,8 @@ Acacia Trapdoor
 Acacia Wood
 Acacia Wood Stairs
 Activator Rail
-Activator Rail
 Allium
 Amethyst Cluster
-Amethyst Cluster
-Amethyst Shard
 Amethyst Shard
 Ancient Debris
 Andesite
@@ -33,8 +30,6 @@ Arrow
 Awkward Potion
 Axolotl Spawn Egg
 Azalea
-Azalea
-Azalea Leaves
 Azalea Leaves
 Azure Bluet
 Baked Potato
@@ -49,7 +44,6 @@ Beetroot
 Beetroot Seeds
 Beetroot Soup
 Bell
-Big Dripleaf
 Big Dripleaf
 Birch Boat
 Birch Button
@@ -68,7 +62,6 @@ Birch Trapdoor
 Birch Wood
 Black Banner
 Black Bed
-Black Candle
 Black Candle
 Black Carpet
 Black Concrete
@@ -89,9 +82,7 @@ Blast Furnace
 Blaze Powder
 Blaze Rod
 Block Of Amethyst
-Block Of Amethyst
 Block Of Coal
-Block Of Copper
 Block Of Copper
 Block Of Diamond
 Block Of Emerald
@@ -101,15 +92,11 @@ Block Of Lapis Lazuli
 Block Of Netherite
 Block Of Quartz
 Block Of Raw Copper
-Block Of Raw Copper
 Block Of Raw Gold
-Block Of Raw Gold
-Block Of Raw Iron
 Block Of Raw Iron
 Block Of Redstone
 Blue Banner
 Blue Bed
-Blue Candle
 Blue Candle
 Blue Carpet
 Blue Concrete
@@ -148,7 +135,6 @@ Bricks
 Brown Banner
 Brown Bed
 Brown Candle
-Brown Candle
 Brown Carpet
 Brown Concrete
 Brown Concrete Powder
@@ -167,22 +153,17 @@ Bubble Coral Block
 Bubble Coral Fan
 Bucket
 Bucket Of Axolotl
-Bucket Of Axolotl
 Bucket Of Cod
 Bucket Of Pufferfish
 Bucket Of Salmon
 Bucket Of Tropical Fish
 Budding Amethyst
-Budding Amethyst
-Bundle
 Bundle
 Cactus
 Cactus Green
 Cake
 Calcite
-Calcite
 Campfire
-Candle
 Candle
 Carrot
 Carrot On A Stick
@@ -198,7 +179,6 @@ Chainmail Leggings
 Charcoal
 Chest
 Chipped Anvil
-Chiseled Deepslate
 Chiseled Deepslate
 Chiseled Nether Bricks
 Chiseled Polished Blackstone
@@ -222,12 +202,8 @@ Coal Block
 Coal Ore
 Coarse Dirt
 Cobbled Deepslate
-Cobbled Deepslate
-Cobbled Deepslate Slab
 Cobbled Deepslate Slab
 Cobbled Deepslate Stairs
-Cobbled Deepslate Stairs
-Cobbled Deepslate Wall
 Cobbled Deepslate Wall
 Cobblestone
 Cobblestone Monster Egg
@@ -250,13 +226,9 @@ Cooked Rabbit
 Cooked Salmon
 Cookie
 Copper Ingot
-Copper Ingot
-Copper Ore
 Copper Ore
 Cornflower
 Cracked Deepslate Bricks
-Cracked Deepslate Bricks
-Cracked Deepslate Tiles
 Cracked Deepslate Tiles
 Cracked Nether Bricks
 Cracked Polished Blackstone Bricks
@@ -283,10 +255,7 @@ Crimson Trapdoor
 Crossbow
 Crying Obsidian
 Cut Copper
-Cut Copper
 Cut Copper Slab
-Cut Copper Slab
-Cut Copper Stairs
 Cut Copper Stairs
 Cut Red Sandstone
 Cut Red Sandstone Slab
@@ -294,7 +263,6 @@ Cut Sandstone
 Cut Sandstone Slab
 Cyan Banner
 Cyan Bed
-Cyan Candle
 Cyan Candle
 Cyan Carpet
 Cyan Concrete
@@ -348,40 +316,22 @@ Dead Tube Coral Block
 Dead Tube Coral Fan
 Debug Stick
 Deepslate
-Deepslate
-Deepslate Brick Slab
 Deepslate Brick Slab
 Deepslate Brick Stairs
-Deepslate Brick Stairs
-Deepslate Brick Wall
 Deepslate Brick Wall
 Deepslate Bricks
-Deepslate Bricks
-Deepslate Coal Ore
 Deepslate Coal Ore
 Deepslate Copper Ore
-Deepslate Copper Ore
-Deepslate Diamond Ore
 Deepslate Diamond Ore
 Deepslate Emerald Ore
-Deepslate Emerald Ore
-Deepslate Gold Ore
 Deepslate Gold Ore
 Deepslate Iron Ore
-Deepslate Iron Ore
-Deepslate Lapis Lazuli Ore
 Deepslate Lapis Lazuli Ore
 Deepslate Redstone Ore
-Deepslate Redstone Ore
-Deepslate Tile Slab
 Deepslate Tile Slab
 Deepslate Tile Stairs
-Deepslate Tile Stairs
-Deepslate Tile Wall
 Deepslate Tile Wall
 Deepslate Tiles
-Deepslate Tiles
-Detector Rail
 Detector Rail
 Diamond
 Diamond Axe
@@ -449,7 +399,6 @@ Dragon's Breath
 Dried Kelp
 Dried Kelp Block
 Dripstone Block
-Dripstone Block
 Dropper
 Egg
 Elytra
@@ -486,12 +435,8 @@ End Stone Bricks
 Ender Chest
 Ender Pearl
 Exposed Copper
-Exposed Copper
-Exposed Cut Copper
 Exposed Cut Copper
 Exposed Cut Copper Slab
-Exposed Cut Copper Slab
-Exposed Cut Copper Stairs
 Exposed Cut Copper Stairs
 Eye Of Ender
 Farmland
@@ -513,96 +458,79 @@ Flint
 Flint And Steel
 Flower Pot
 Flowering Azalea
-Flowering Azalea
-Flowering Azalea Leaves
 Flowering Azalea Leaves
 Furnace
-Ghast Tear
-Gilded Blackstone
+Ghast tear
+Gilded blackstone
 Glass
-Glass Bottle
-Glass Pane
-Glistering Melon
-Glistering Melon Slice
-Glow Berries
-Glow Berries
-Glow Ink Sac
-Glow Ink Sac
-Glow Item Frame
-Glow Item Frame
-Glow Lichen
-Glow Lichen
-Glow Squid Spawn Egg
+Glass bottle
+Glass pane
+Glistering melon
+Glistering melon slice
+Glow berries
+Glow ink sac
+Glow item frame
+Glow lichen
+Glow squid spawn egg
 Glowstone
-Glowstone Dust
-Goat Spawn Egg
-Gold Axe
-Gold Block
-Gold Boots
-Gold Chestplate
-Gold Helmet
-Gold Hoe
-Gold Horse Armor
-Gold Ingot
-Gold Leggings
-Gold Nugget
-Gold Ore
-Gold Pickaxe
-Gold Shovel
-Gold Sword
-Golden Apple
-Golden Axe
-Golden Boots
-Golden Carrot
-Golden Chestplate
-Golden Helmet
-Golden Hoe
-Golden Horse Armor
-Golden Leggings
-Golden Pickaxe
-Golden Shovel
-Golden Sword
+Glowstone dust
+Goat spawn egg
+Gold horse armor
+Gold ingot
+Gold nugget
+Gold ore
+Gold pickaxe
+Gold shovel
+Golden apple
+Golden axe
+Golden boots
+Golden carrot
+Golden chestplate
+Golden helmet
+Golden hoe
+Golden horse armor
+Golden leggings
+Golden pickaxe
+Golden shovel
+Golden sword
 Granite
-Granite Slab
-Granite Stairs
-Granite Wall
+Granite slab
+Granite stairs
+Granite wall
 Grass
-Grass Block
-Grassless Dirt
+Grass block
+Grassless dirt
 Gravel
-Gray Banner
-Gray Bed
-Gray Candle
-Gray Candle
-Gray Carpet
-Gray Concrete
-Gray Concrete Powder
-Gray Dye
-Gray Glazed Terracotta
-Gray Shulker Box
-Gray Stained Clay
-Gray Stained Glass
-Gray Stained Glass Pane
-Gray Terracotta
-Gray Wool
-Green Banner
-Green Bed
-Green Candle
-Green Candle
-Green Carpet
-Green Concrete
-Green Concrete Powder
-Green Dye
-Green Glazed Terracotta
-Green Shulker Box
-Green Stained Clay
-Green Stained Glass
-Green Stained Glass Pane
-Green Terracotta
-Green Wool
+Gray banner
+Gray bed
+Gray candle
+Gray carpet
+Gray concrete
+Gray concrete powder
+Gray dye
+Gray glazed terracotta
+Gray shulker box
+Gray stained clay
+Gray stained glass
+Gray stained glass pane
+Gray terracotta
+Gray wool
+Green banner
+Green bed
+Green candle
+Green carpet
+Green concrete
+Green concrete powder
+Green dye
+Green glazed terracotta
+Green shulker box
+Green stained clay
+Green stained glass
+Green stained glass pane
+Green terracotta
+Green wool
 Grindstone
 Gunpowder
-Hanging Roots
 Hanging Roots
 Hardened Clay
 Harming Potion
@@ -628,7 +556,6 @@ Ice
 Infested Chiseled Stone Bricks
 Infested Cobblestone
 Infested Cracked Stone Bricks
-Infested Deepslate
 Infested Deepslate
 Infested Mossy Stone Bricks
 Infested Stone
@@ -680,7 +607,6 @@ Lapis Lazuli
 Lapis Lazuli Block
 Lapis Lazuli Ore
 Large Amethyst Bud
-Large Amethyst Bud
 Large Fern
 Lava Bucket
 Lead
@@ -696,10 +622,8 @@ Leather Tunic
 Lectern
 Lever
 Light
-Light
 Light Blue Banner
 Light Blue Bed
-Light Blue Candle
 Light Blue Candle
 Light Blue Carpet
 Light Blue Concrete
@@ -715,7 +639,6 @@ Light Blue Wool
 Light Gray Banner
 Light Gray Bed
 Light Gray Candle
-Light Gray Candle
 Light Gray Carpet
 Light Gray Concrete
 Light Gray Concrete Powder
@@ -729,13 +652,11 @@ Light Gray Terracotta
 Light Gray Wool
 Light Weighted Pressure Plate
 Lightning Rod
-Lightning Rod
 Lilac
 Lily Of The Valley
 Lily Pad
 Lime Banner
 Lime Bed
-Lime Candle
 Lime Candle
 Lime Carpet
 Lime Concrete
@@ -758,7 +679,6 @@ Loom
 Magenta Banner
 Magenta Bed
 Magenta Candle
-Magenta Candle
 Magenta Carpet
 Magenta Concrete
 Magenta Concrete Powder
@@ -774,7 +694,6 @@ Magma Block
 Magma Cream
 Map
 Medium Amethyst Bud
-Medium Amethyst Bud
 Melon
 Melon Block
 Melon Seeds
@@ -782,14 +701,9 @@ Melon Slice
 Melon Stem
 Milk Bucket
 Minecart
-Minecart
-Minecart With Chest
 Minecart With Chest
 Minecart With Furnace
-Minecart With Furnace
 Minecart With Hopper
-Minecart With Hopper
-Minecart With Tnt
 Minecart With Tnt
 Mob Head (Creeper)
 Mob Head (Human)
@@ -798,8 +712,6 @@ Mob Head (Wither Skeleton)
 Mob Head (Zombie)
 Mob Spawner
 Moss Block
-Moss Block
-Moss Carpet
 Moss Carpet
 Mossy Cobblestone
 Mossy Cobblestone Slab
@@ -866,7 +778,6 @@ Obsidian
 Orange Banner
 Orange Bed
 Orange Candle
-Orange Candle
 Orange Carpet
 Orange Concrete
 Orange Concrete Powder
@@ -881,12 +792,8 @@ Orange Tulip
 Orange Wool
 Oxeye Daisy
 Oxidized Copper
-Oxidized Copper
-Oxidized Cut Copper
 Oxidized Cut Copper
 Oxidized Cut Copper Slab
-Oxidized Cut Copper Slab
-Oxidized Cut Copper Stairs
 Oxidized Cut Copper Stairs
 Packed Ice
 Painting
@@ -897,7 +804,6 @@ Phantom Membrane
 Pillar Quartz Block
 Pink Banner
 Pink Bed
-Pink Candle
 Pink Candle
 Pink Carpet
 Pink Concrete
@@ -916,7 +822,6 @@ Piston Extension
 Piston Head
 Player Head
 Podzol
-Pointed Dripstone
 Pointed Dripstone
 Poison Potion
 Poison Potion 
@@ -940,12 +845,8 @@ Polished Blackstone Slab
 Polished Blackstone Stairs
 Polished Blackstone Wall
 Polished Deepslate
-Polished Deepslate
-Polished Deepslate Slab
 Polished Deepslate Slab
 Polished Deepslate Stairs
-Polished Deepslate Stairs
-Polished Deepslate Wall
 Polished Deepslate Wall
 Polished Diorite
 Polished Diorite Slab
@@ -959,9 +860,7 @@ Potato
 Potatoes
 Potion
 Powder Snow Bucket
-Powder Snow Bucket
 Powered Minecart
-Powered Rail
 Powered Rail
 Powered Redstone Comparator
 Powered Repeater
@@ -981,7 +880,6 @@ Pumpkin Seeds
 Pumpkin Stem
 Purple Banner
 Purple Bed
-Purple Candle
 Purple Candle
 Purple Carpet
 Purple Concrete
@@ -1008,16 +906,12 @@ Rabbit Hide
 Rabbit Stew
 Rabbit's Foot
 Rail
-Rail
 Raw Beef
 Raw Chicken
 Raw Cod
 Raw Copper
-Raw Copper
 Raw Fish
 Raw Gold
-Raw Gold
-Raw Iron
 Raw Iron
 Raw Mutton
 Raw Porkchop
@@ -1025,7 +919,6 @@ Raw Rabbit
 Raw Salmon
 Red Banner
 Red Bed
-Red Candle
 Red Candle
 Red Carpet
 Red Concrete
@@ -1066,7 +959,6 @@ Regeneration Splash
 Regeneration Splash Ii
 Respawn Anchor
 Rooted Dirt
-Rooted Dirt
 Rose Bush
 Rose Red
 Rotten Flesh
@@ -1077,7 +969,6 @@ Sandstone Slab
 Sandstone Stairs
 Sandstone Wall
 Scaffolding
-Sculk Sensor
 Sculk Sensor
 Scute
 Sea Lantern
@@ -1098,12 +989,9 @@ Slowness Potion
 Slowness Splash
 Slowness Splash 
 Small Amethyst Bud
-Small Amethyst Bud
-Small Dripleaf
 Small Dripleaf
 Smithing Table
 Smoker
-Smooth Basalt
 Smooth Basalt
 Smooth Quartz Block
 Smooth Quartz Slab
@@ -1155,7 +1043,6 @@ Spider Eye
 Splash Potion
 Sponge
 Spore Blossom
-Spore Blossom
 Spruce Boat
 Spruce Button
 Spruce Door
@@ -1172,7 +1059,6 @@ Spruce Stairs
 Spruce Trapdoor
 Spruce Wood
 Spruce Wood 
-Spyglass
 Spyglass
 Standing Sign
 Steak
@@ -1238,7 +1124,6 @@ Target
 Terracotta
 Thick Potion
 Tinted Glass
-Tinted Glass
 Tipped Arrow
 Tnt
 Torch
@@ -1252,7 +1137,6 @@ Tropical Fish
 Tube Coral
 Tube Coral Block
 Tube Coral Fan
-Tuff
 Tuff
 Turtle Egg
 Turtle Shell
@@ -1282,46 +1166,26 @@ Warped Wart Block
 Water
 Water Bucket
 Waxed Block Of Copper
-Waxed Block Of Copper
-Waxed Cut Copper
 Waxed Cut Copper
 Waxed Cut Copper Slab
-Waxed Cut Copper Slab
-Waxed Cut Copper Stairs
 Waxed Cut Copper Stairs
 Waxed Exposed Copper
-Waxed Exposed Copper
-Waxed Exposed Cut Copper
 Waxed Exposed Cut Copper
 Waxed Exposed Cut Copper Slab
-Waxed Exposed Cut Copper Slab
-Waxed Exposed Cut Copper Stairs
 Waxed Exposed Cut Copper Stairs
 Waxed Oxidized Copper
-Waxed Oxidized Copper
-Waxed Oxidized Cut Copper
 Waxed Oxidized Cut Copper
 Waxed Oxidized Cut Copper Slab
-Waxed Oxidized Cut Copper Slab
-Waxed Oxidized Cut Copper Stairs
 Waxed Oxidized Cut Copper Stairs
 Waxed Weathered Copper
-Waxed Weathered Copper
-Waxed Weathered Cut Copper
 Waxed Weathered Cut Copper
 Waxed Weathered Cut Copper Slab
-Waxed Weathered Cut Copper Slab
-Waxed Weathered Cut Copper Stairs
 Waxed Weathered Cut Copper Stairs
 Weakness Potion
 Weakness Splash
 Weathered Copper
-Weathered Copper
-Weathered Cut Copper
 Weathered Cut Copper
 Weathered Cut Copper Slab
-Weathered Cut Copper Slab
-Weathered Cut Copper Stairs
 Weathered Cut Copper Stairs
 Web
 Weeping Vines
@@ -1331,7 +1195,6 @@ Wheat Crop
 Wheat Seeds
 White Banner
 White Bed
-White Candle
 White Candle
 White Carpet
 White Concrete
@@ -1359,7 +1222,6 @@ Wooden Sword
 Written Book
 Yellow Banner
 Yellow Bed
-Yellow Candle
 Yellow Candle
 Yellow Carpet
 Yellow Concrete
