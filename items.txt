@@ -475,7 +475,7 @@ Glow squid spawn egg
 Glowstone
 Glowstone dust
 Goat spawn egg
-Gold horse armor
+Golden horse armor
 Gold ingot
 Gold nugget
 Gold ore
